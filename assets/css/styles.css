@@ -57,7 +57,9 @@
 
 
 
-
+.projects{
+    display: flex;
+}
 
 
 
