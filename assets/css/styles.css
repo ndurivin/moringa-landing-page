@@ -6,8 +6,45 @@
     margin: 0;
     font-family: 'Nunito', sans-serif;
     box-sizing: border-box;
+    width: 90%;
+    margin: 0 auto;
 }
 
+
+.top-nav{
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+.menu-items li{
+    display: inline;
+    
+}
+.menu-items li a{
+    list-style: none;
+    text-decoration: none;
+    justify-content: space-around;
+}
+
+
+.stories{
+    display: inline-block;
+}
+
+
+.sure-area{
+    word-spacing: 2px;
+}
+
+.sure-area h2{
+    font-size: 27px;
+    color: #ec4067; 
+}
+.sure-area p{
+    font-size: 23px;
+}
 
 .footer{
     background-color: rgba(128, 128, 128, 0.3);
