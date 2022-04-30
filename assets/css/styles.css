@@ -26,11 +26,29 @@
     list-style: none;
     text-decoration: none;
     justify-content: space-around;
+    color: rgba(128, 128, 128, 1);
+    font-size: 18px;
+    font-weight: 500;
+}
+.landing-area{
+    display: flex;
 }
 
 
+
 .stories{
-    display: inline-block;
+    display: flex;
+}
+
+.buttons a{
+    background-color: #ec4067;
+    width: 60px;
+    height: 30px;
+
+}
+
+.mentors{
+    display: flex;
 }
 
 
