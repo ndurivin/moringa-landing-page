@@ -36,9 +36,30 @@
 
 
 
-.stories{
+
+
+
+.orientation{
     display: flex;
 }
+
+
+.board{
+    display: flex;
+}
+
+
+.graduation{
+    display: flex;
+}
+
+
+
+
+
+
+
+
 
 .buttons a{
     background-color: #ec4067;
