@@ -2,7 +2,6 @@
 
 * {
     padding: 0;
-    margin: 0;
     font-family: 'Nunito', sans-serif;
     box-sizing: border-box;
     width: 90%;
@@ -238,17 +237,25 @@
     display: flex;
 }
 
+
 .mentors .course {
     color: #ec4067;
 }
 
-.mentors .names {
-    color: black;
-}
 
 .mentor-details p {
     margin: 10px;
     font-size: 14px;
+}
+
+
+.mentor-details img{
+    position: relative;
+}
+.mentor-details h4{
+    position: relative;
+    bottom: 40px;
+    color: #fff;
 }
 
 .btn-ask {
@@ -257,6 +264,7 @@
     height: 25px;
     border-radius: 5px;
     border: none;
+    margin-left: 10px;
 }
 
 .btn-ask a {
