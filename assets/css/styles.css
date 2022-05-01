@@ -69,6 +69,38 @@
     margin: 80px;
 }
 
+.btn-stories{
+    background-color: #ec4067;
+    width: 130px;
+    height: 35px;
+    border-radius: 5px;
+    border: none;
+}
+.btn-stories a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    
+}
+
+.btn-stories-1{
+    background-color: #ec4067;
+    width: 180px;
+    height: 35px;
+    border-radius: 5px;
+    border: none;
+}
+.btn-stories-1 a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    border: none;
+}
+
+.stories-orient-right{
+    margin-top: 60px;
+}
+
 
 .orientation{
     display: flex;
@@ -104,6 +136,12 @@
     height: 30px;
 
 }
+.tms{
+    margin: 50px;
+}
+.tms-skills{
+    font-size: 14px;
+}
 
 .mentors{
     display: flex;
@@ -115,6 +153,27 @@
 
 .mentors .names{
     color: black;
+}
+.mentor-details p{
+    margin: 10px;
+    font-size: 14px;
+}
+
+.btn-ask{
+    background-color: #ec4067;
+    width: 100px;
+    height: 25px;
+    border-radius: 5px;
+    border: none;
+}
+.btn-ask a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 12px;
+}
+
+.projects-main{
+    margin: 80px;
 }
 
 
