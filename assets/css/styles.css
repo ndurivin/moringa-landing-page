@@ -8,10 +8,16 @@
   margin: auto;
 }
 
+.main-area{
+    
+    width: 90%;
+    margin: auto;
+}
+
 .top-nav {
   margin-top: 40px;
   padding: 10px;
-  width: 80%;
+  width: 100%;
   display: flex;
   flex-direction: row;
 }
@@ -48,7 +54,7 @@
 
 .landing-area {
   display: flex;
-  margin: 40px;
+  margin: 20px;
 }
 
 .la-btns {
@@ -62,7 +68,7 @@
 
 .la-left h1 {
   color: #ec4067;
-  font-size: 30px;
+  font-size: 34px;
   margin: 30px;
 }
 
@@ -86,7 +92,7 @@
 }
 
 .stories {
-  margin: 80px;
+  margin: 50px;
 }
 
 .stories-title {
