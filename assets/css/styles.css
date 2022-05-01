@@ -7,7 +7,7 @@
     font-family: 'Nunito', sans-serif;
     box-sizing: border-box;
     width: 90%;
-    margin: 0 auto;
+    margin: auto;
 }
 
 
@@ -61,12 +61,15 @@
     font-size: 36px;
     margin: 30px;
 }
-.la-left a{
-}
+
 
 
 .stories{
     margin: 80px;
+}
+
+.stories-title{
+    font-size: 13px;
 }
 
 .btn-stories{
@@ -75,6 +78,7 @@
     height: 35px;
     border-radius: 5px;
     border: none;
+    margin-top: 30px;
 }
 .btn-stories a{
     text-decoration: none;
@@ -89,6 +93,7 @@
     height: 35px;
     border-radius: 5px;
     border: none;
+    margin-top: 20px;
 }
 .btn-stories-1 a{
     text-decoration: none;
@@ -99,12 +104,27 @@
 
 .stories-orient-right{
     margin-top: 60px;
+    width: 70%;
+    margin: auto;
 }
+
+.stories-orient-right p{
+    font-size: 18px;
+}
+.orient-title{
+    margin-bottom: 30px;
+}
+
+
 
 
 .orientation{
     display: flex;
     margin: 80px;
+}
+
+.para-stories{
+    margin: 30px;
 }
 
 
