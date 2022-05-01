@@ -52,7 +52,7 @@
 
 .landing-area {
     display: flex;
-    margin: 60px;
+    margin: 40px;
 }
 
 .la-btns {
@@ -142,12 +142,12 @@
 }
 
 .orient-title {
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 
 
 .stories-board-left {
-    margin-top: 50px;
+    margin-top: 40px;
     width: 100%;
     margin: auto;
 }
@@ -158,6 +158,7 @@
 
 .orient-title {
     margin-bottom: 30px;
+    font-size: 23px;
 }
 
 
